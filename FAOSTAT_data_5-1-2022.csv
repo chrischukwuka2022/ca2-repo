@@ -1,0 +1,397 @@
+﻿Domain Code,Domain,Area Code,Area,Year Code,Year,Item Code,Item,Months Code,Months,Unit,Value,Flag,Flag Description,Note
+CP,Consumer Price Indices,104,Ireland,2010,2010,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,,94.39322,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,,94.79192,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,,94.79192,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,,95.09096,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,,95.58933,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,,95.48966,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,,95.48966,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,,96.18739,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,,95.98804,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,,96.08772,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,,95.88836,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,,96.18739,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,,101.917,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,,101.7229,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,,101.5288,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,,101.2376,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,,101.6258,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,,101.7229,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,,102.0141,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,,101.7229,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,,101.5288,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,,101.7229,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,,101.5288,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,,101.917,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2010,2010,23014,Food price inflation,7001,January,%,-8.216785,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2010,2010,23014,Food price inflation,7002,February,%,-7.989457,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2010,2010,23014,Food price inflation,7003,March,%,-7.760124,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2010,2010,23014,Food price inflation,7004,April,%,-7.04096,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2010,2010,23014,Food price inflation,7005,May,%,-6.3506,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2010,2010,23014,Food price inflation,7006,June,%,-5.329662,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2010,2010,23014,Food price inflation,7007,July,%,-3.842652,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2010,2010,23014,Food price inflation,7008,August,%,-3.142356,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2010,2010,23014,Food price inflation,7009,September,%,-2.05992,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2010,2010,23014,Food price inflation,7010,October,%,-1.318273,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2010,2010,23014,Food price inflation,7011,November,%,-0.759003,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2010,2010,23014,Food price inflation,7012,December,%,0.190812,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23014,Food price inflation,7012,December,%,1.142891,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23014,Food price inflation,7011,November,%,1.529615,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23014,Food price inflation,7010,October,%,1.335884,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23014,Food price inflation,7009,September,%,1.338339,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23014,Food price inflation,7008,August,%,1.431241,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23014,Food price inflation,7007,July,%,1.04662,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23014,Food price inflation,7006,June,%,0.667893,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23014,Food price inflation,7005,May,%,0.955171,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23014,Food price inflation,7004,April,%,1.342288,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23014,Food price inflation,7003,March,%,1.529615,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23014,Food price inflation,7002,February,%,1.240429,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23014,Food price inflation,7001,January,%,0.285723,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2011,2011,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,,103.0818,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,,103.0818,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,,103.0818,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,,102.8876,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,,103.1788,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,,103.0818,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,,102.4023,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,,102.5965,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,,102.5965,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,,103.0818,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,,102.9847,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,,102.2082,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,,98.47994,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,,98.77897,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,,98.77897,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,,98.47994,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,,98.18092,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,,97.98156,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,,98.08124,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,,98.08124,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,,98.08124,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,,97.68253,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,,96.78545,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2011,2011,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,,95.88836,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,,97.98156,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,,98.87865,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,,99.8754,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,,99.8754,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,,99.8754,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,,99.67606,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,,99.57638,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,,100.1744,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,,100.0748,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,,99.97508,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,,99.57638,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,,99.67606,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,,102.5965,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,,102.7906,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,,102.6935,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,,103.2759,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,,103.2759,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,,103.1788,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,,103.2759,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,,103.5671,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,,103.7612,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,,104.0524,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,,104.0524,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,,104.7319,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2012,2012,23014,Food price inflation,7001,January,%,0.379911,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2012,2012,23014,Food price inflation,7002,February,%,-0.188475,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2012,2012,23014,Food price inflation,7003,March,%,-0.376691,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2012,2012,23014,Food price inflation,7004,April,%,0.662206,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2012,2012,23014,Food price inflation,7005,May,%,0.662206,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2012,2012,23014,Food price inflation,7006,June,%,0.758284,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2012,2012,23014,Food price inflation,7007,July,%,0.188297,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2012,2012,23014,Food price inflation,7008,August,%,0.376337,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2012,2012,23014,Food price inflation,7009,September,%,0.849082,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2012,2012,23014,Food price inflation,7010,October,%,0.941582,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2012,2012,23014,Food price inflation,7011,November,%,0.941582,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2012,2012,23014,Food price inflation,7012,December,%,1.600768,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23014,Food price inflation,7012,December,%,-1.112173,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23014,Food price inflation,7011,November,%,-0.279859,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23014,Food price inflation,7010,October,%,0.093318,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23014,Food price inflation,7009,September,%,0.187161,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23014,Food price inflation,7008,August,%,1.124681,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23014,Food price inflation,7007,July,%,2.067665,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23014,Food price inflation,7006,June,%,1.693371,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23014,Food price inflation,7005,May,%,1.503739,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23014,Food price inflation,7004,April,%,1.503739,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23014,Food price inflation,7003,March,%,1.60682,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23014,Food price inflation,7002,February,%,1.982963,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23014,Food price inflation,7001,January,%,2.365188,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2013,2013,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,,103.5671,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,,103.7612,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,,104.1495,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,,103.9554,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,,104.7319,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,,105.4113,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,,104.926,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,,104.8289,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,,104.8289,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,,104.3436,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,,104.8289,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,,105.0231,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,,99.8754,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,,99.8754,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,,100.0748,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,,100.2741,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,,100.3738,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,,100.2741,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,,100.3738,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,,100.2741,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,,100.3738,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,,100.3738,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,,99.97508,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2013,2013,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,,99.17767,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,,99.37702,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,,99.8754,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,,100.5731,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,,100.6728,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,,100.5731,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,,100.7725,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,,100.5731,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,,100.7725,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,,100.4735,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,,100.2741,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,,99.97508,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,,99.57638,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,,103.2759,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,,103.0818,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,,102.7906,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,,102.6935,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,,102.8876,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,,102.4994,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,,102.1111,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,,102.0141,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,,101.6258,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,,101.3346,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,,101.0434,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,,100.8493,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2014,2014,23014,Food price inflation,7001,January,%,-1.663634,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2014,2014,23014,Food price inflation,7002,February,%,-1.666621,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2014,2014,23014,Food price inflation,7003,March,%,-1.488352,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2014,2014,23014,Food price inflation,7004,April,%,-2.037034,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2014,2014,23014,Food price inflation,7005,May,%,-1.851875,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2014,2014,23014,Food price inflation,7006,June,%,-2.312678,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2014,2014,23014,Food price inflation,7007,July,%,-3.130784,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2014,2014,23014,Food price inflation,7008,August,%,-2.595007,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2014,2014,23014,Food price inflation,7009,September,%,-2.240961,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2014,2014,23014,Food price inflation,7010,October,%,-2.702749,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2014,2014,23014,Food price inflation,7011,November,%,-2.619284,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2014,2014,23014,Food price inflation,7012,December,%,-2.624192,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23014,Food price inflation,7012,December,%,-0.962456,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23014,Food price inflation,7011,November,%,-1.152703,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23014,Food price inflation,7010,October,%,-1.340973,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23014,Food price inflation,7009,September,%,-2.196735,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23014,Food price inflation,7008,August,%,-2.283567,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23014,Food price inflation,7007,July,%,-2.376392,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23014,Food price inflation,7006,June,%,-2.272696,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23014,Food price inflation,7005,May,%,-2.547149,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23014,Food price inflation,7004,April,%,-2.45741,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23014,Food price inflation,7003,March,%,-2.738451,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23014,Food price inflation,7002,February,%,-2.919041,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23014,Food price inflation,7001,January,%,-2.349629,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2015,2015,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,,99.87867,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,,99.87867,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,,99.97573,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,,99.39335,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,,99.68454,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,,99.68454,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,,100.1699,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,,100.2669,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,,100.1699,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,,99.97573,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,,100.0728,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,,100.8493,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,,99.67606,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,,99.77573,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,,100.0748,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,,100.2741,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,,100.7725,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,,100.3738,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,,100.5731,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,,100.3738,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,,99.97508,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,,99.97508,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,,99.37702,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2015,2015,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,,98.77897,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,,98.87865,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,,99.27735,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,,99.67606,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,,99.8754,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,,100.3738,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,,101.0715,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,,100.8722,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,,100.6728,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,,100.2741,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,,99.77573,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,,99.67606,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,,99.67606,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,,99.87867,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,,99.19923,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,,99.49042,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,,99.19923,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,,99.19923,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,,99.10216,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,,98.61684,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,,98.71391,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,,98.22858,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,,97.84033,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,,97.45207,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,,97.06382,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2016,2016,23014,Food price inflation,7001,January,%,-0.962456,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2016,2016,23014,Food price inflation,7002,February,%,-0.872935,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2016,2016,23014,Food price inflation,7003,March,%,-0.485428,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2016,2016,23014,Food price inflation,7004,April,%,-0.969024,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2016,2016,23014,Food price inflation,7005,May,%,-1.064828,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2016,2016,23014,Food price inflation,7006,June,%,-1.065929,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2016,2016,23014,Food price inflation,7007,July,%,-1.071079,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2016,2016,23014,Food price inflation,7008,August,%,-0.973702,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2016,2016,23014,Food price inflation,7009,September,%,-1.171879,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2016,2016,23014,Food price inflation,7010,October,%,-2.135918,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2016,2016,23014,Food price inflation,7011,November,%,-2.429548,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2016,2016,23014,Food price inflation,7012,December,%,-2.818269,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23014,Food price inflation,7012,December,%,-1.500003,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23014,Food price inflation,7011,November,%,-1.195213,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23014,Food price inflation,7010,October,%,-1.19047,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23014,Food price inflation,7009,September,%,-1.976278,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23014,Food price inflation,7008,August,%,-1.671588,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23014,Food price inflation,7007,July,%,-1.968497,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23014,Food price inflation,7006,June,%,-2.742402,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23014,Food price inflation,7005,May,%,-2.152648,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23014,Food price inflation,7004,April,%,-2.739729,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23014,Food price inflation,7003,March,%,-2.634153,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23014,Food price inflation,7002,February,%,-2.641885,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23014,Food price inflation,7001,January,%,-2.429548,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2017,2017,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,,95.60786,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,,96.28731,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,,96.67557,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,,96.28731,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,,97.06382,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,,96.67557,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,,96.38438,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,,97.06382,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,,96.48144,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,,96.86969,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,,96.5785,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,,97.45207,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,,100.0748,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,,100.1744,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,,100.3738,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,,100.4735,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,,101.0715,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,,100.6728,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,,100.6728,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,,100.5731,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,,100.7725,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,,100.3738,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,,99.77573,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2017,2017,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,,99.17767,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,,99.37702,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,,100.2741,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,,100.5731,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,,100.3738,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,,100.9718,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,,101.0715,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,,101.4702,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,,101.7692,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,,101.3705,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,,101.2709,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,,100.7725,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,,100.7725,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,,95.80199,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,,94.83135,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,,95.12254,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,,94.54016,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,,94.83135,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,,94.34603,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,,94.63722,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,,94.54016,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,,94.1519,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,,94.54016,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,,94.34603,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,,94.24897,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2018,2018,23014,Food price inflation,7001,January,%,-1.693222,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2018,2018,23014,Food price inflation,7002,February,%,-1.809047,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2018,2018,23014,Food price inflation,7003,March,%,-1.803609,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2018,2018,23014,Food price inflation,7004,April,%,-2.012076,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2018,2018,23014,Food price inflation,7005,May,%,-2.300002,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2018,2018,23014,Food price inflation,7006,June,%,-2.114814,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2018,2018,23014,Food price inflation,7007,July,%,-2.108444,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2018,2018,23014,Food price inflation,7008,August,%,-2.600001,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2018,2018,23014,Food price inflation,7009,September,%,-2.217748,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2018,2018,23014,Food price inflation,7010,October,%,-2.208841,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2018,2018,23014,Food price inflation,7011,November,%,-2.016133,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2018,2018,23014,Food price inflation,7012,December,%,-1.421316,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23014,Food price inflation,7012,December,%,-0.926875,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23014,Food price inflation,7011,November,%,-1.028798,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23014,Food price inflation,7010,October,%,-1.129361,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23014,Food price inflation,7009,September,%,-0.824731,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23014,Food price inflation,7008,August,%,-0.308007,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23014,Food price inflation,7007,July,%,-0.512821,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23014,Food price inflation,7006,June,%,-0.102877,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23014,Food price inflation,7005,May,%,-0.204711,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23014,Food price inflation,7004,April,%,-0.102665,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23014,Food price inflation,7003,March,%,-0.612242,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23014,Food price inflation,7002,February,%,-0.716482,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23014,Food price inflation,7001,January,%,-1.51976,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2019,2019,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,,93.3754,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,,93.3754,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,,93.47246,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,,93.3754,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,,94.24897,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,,94.1519,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,,94.24897,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,,94.63722,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,,94.4431,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,,94.54016,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,,94.1519,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,,94.34603,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,,102.0683,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,,101.8689,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,,101.9686,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,,102.2676,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,,102.467,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,,101.9686,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,,102.168,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,,101.9686,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,,102.0683,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,,101.6696,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,,100.8722,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2019,2019,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,,100.0748,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,,101.3705,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,,101.9686,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,,102.3673,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,,101.9686,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,,101.4702,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,,101.7692,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,,101.5699,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,,101.4702,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,,101.0715,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,,100.4735,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,,100.7725,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,,101.0715,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,,93.27833,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,,93.18127,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,,92.98714,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,,93.27833,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,,93.3754,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,,92.79301,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,,92.98714,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,,92.59888,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,,92.0165,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,,92.0165,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,,92.0165,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,,91.91943,X,International reliable sources,base year is 2015
+CP,Consumer Price Indices,104,Ireland,2020,2020,23014,Food price inflation,7001,January,%,-1.131685,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2020,2020,23014,Food price inflation,7002,February,%,-1.030919,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2020,2020,23014,Food price inflation,7003,March,%,-1.642709,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2020,2020,23014,Food price inflation,7004,April,%,-1.233303,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2020,2020,23014,Food price inflation,7005,May,%,-1.333323,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2020,2020,23014,Food price inflation,7006,June,%,-1.544802,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2020,2020,23014,Food price inflation,7007,July,%,-1.237107,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2020,2020,23014,Food price inflation,7008,August,%,-1.750778,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2020,2020,23014,Food price inflation,7009,September,%,-1.455308,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2020,2020,23014,Food price inflation,7010,October,%,-1.557635,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2020,2020,23014,Food price inflation,7011,November,%,-1.455308,Fc,Calculated data,
+CP,Consumer Price Indices,104,Ireland,2020,2020,23014,Food price inflation,7012,December,%,-1.559265,Fc,Calculated data,
